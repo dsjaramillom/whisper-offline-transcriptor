@@ -67,3 +67,4 @@ Select your transcription level (Tiny to Medium).
 Choose your file (.mp4, .mp3, .wav, etc.).
 
 The transcript will be automatically saved as a .txt file in the source folder.
+For detailed setup instructions, please refer to the [Installation Guide](INSTALLATION.md).
